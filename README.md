@@ -13,10 +13,13 @@ To predict the outcome of a given sample where the output variable is in the for
 # 2.Regression:
 To predict the outcome of a given sample where the output variable is in the form of real values.
 
-The algorithms we cover in this blog is:
+# The algorithms we cover in this blog is:
 1.Linear Regression
+
 2.Support vector machine with regression(SVR)
+
 3.Random Forest Regression
+
 4.Decision Tree Regressor  are the example of supervised learning.
 
 # Linear Regression:
