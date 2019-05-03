@@ -39,3 +39,7 @@ Random forest creates multiple decision trees on randomly selected data samples,
 
 A decision tree is graphical represention of all the possible solutions to a decision tree based on certain conditions. It is decision tress because it start with a single root it create tree for the best fir output.
 
+## Polynomial Regression:
+
+It is a technique to fit a nonlinear equation by taking polynomial functions of independent variable.There are some relationships that a researcher will hypothesize is curvilinear. Clearly, such type of cases will include a polynomial term.
+
