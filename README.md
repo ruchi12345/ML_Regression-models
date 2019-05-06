@@ -43,3 +43,5 @@ A decision tree is graphical represention of all the possible solutions to a dec
 
 It is a technique to fit a nonlinear equation by taking polynomial functions of independent variable.There are some relationships that a researcher will hypothesize is curvilinear. Clearly, such type of cases will include a polynomial term.
 
+## Ridge Regression:
+Ridge regression is for reduce the complexity of model that is number of predictors.Removing predictors from the model can be seen as settings their coefficients to zero. Instead of forcing them to be exactly zero.
