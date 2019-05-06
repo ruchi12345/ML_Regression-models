@@ -56,3 +56,7 @@ instead of taking the square of the coefficients, magnitudes are taken into acco
 
 The method linearly combines the L1 and L2 penalties of the LASSO and Ridge Regression. Including the Elastic Net, these methods are especially powerful when applied to very large data where the number of variables might be in the thousands or even millions.
 
+## Bayesian regression:
+
+Bayesian regression techniques can be used to include regularization parameters in the estimation procedure,the regularization parameter is not set in a hard sense but tuned to the data at hand.
+
