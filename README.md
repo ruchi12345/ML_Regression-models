@@ -52,3 +52,7 @@ Ridge regression is for reduce the complexity of model that is number of predict
 Lasso regression is as same as the ridge regression  both used for the reduce the complexity of model.The only difference 
 instead of taking the square of the coefficients, magnitudes are taken into account. some of the features are completely neglected for the evaluation of output. So Lasso regression not only helps in reducing over-fitting but it can help us in feature selection.
 
+## Elastic net Regression:
+
+The method linearly combines the L1 and L2 penalties of the LASSO and Ridge Regression. Including the Elastic Net, these methods are especially powerful when applied to very large data where the number of variables might be in the thousands or even millions.
+
