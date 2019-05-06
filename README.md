@@ -60,3 +60,7 @@ The method linearly combines the L1 and L2 penalties of the LASSO and Ridge Regr
 
 Bayesian regression techniques can be used to include regularization parameters in the estimation procedure,the regularization parameter is not set in a hard sense but tuned to the data at hand.
 
+## Adaboast regression:
+
+It is Adaptive boasting Algorithm aims to convert a set of weak learners into a strong one. It starts by predicting original data set and gives equal weight to each observation. If prediction is incorrect using the first learner, then it gives higher weight to observation which have been predicted incorrectly.
+
