@@ -8,10 +8,8 @@ supervised learning use labeled training data to learn the mapping function from
 
 Supervised learning can be of two types:
 
-## 1.Classification:
-To predict the outcome of a given sample where the output variable is in the form of categories
-## 2.Regression:
-To predict the outcome of a given sample where the output variable is in the form of real values.
+## 1.Classification: To predict the outcome of a given sample where the output variable is in the form of categories
+## 2.Regression: To predict the outcome of a given sample where the output variable is in the form of real values.
 
 ## The algorithms we cover in this blog is:
 
