@@ -15,16 +15,27 @@ To predict the outcome of a given sample where the output variable is in the for
 
 ## The algorithms we cover in this blog is:
 1.Linear Regression
+
 2.Support vector Regression
+
 3.Random forest Regression
+
 4.Decision Tree Regression
+
 5.polynomial Regression
+
 6.Ridge Regression
+
 7.Lasso Regression
+
 8.Elastic net Regression
+
 9.Bayesian regression
+
 10.Adaboost regression
+
 11.Principal Components Regression
+
 
 ## Linear Regression:
 
