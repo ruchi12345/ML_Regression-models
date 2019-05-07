@@ -38,6 +38,8 @@ To predict the outcome of a given sample where the output variable is in the for
 
 12.Partial Least square Regression
 
+13.Gradient Boosting Regression
+
 
 ## Linear Regression:
 
@@ -88,4 +90,8 @@ multicollinearity.It Selects and keeps only the main principal components,The on
 
 ## Partial Least square Regression:
 
-It is extension of the multiple linear regression or general stepwise regression ,in the simplest form a linear model specifies the relationship between a dependent variable y and set of predictions.instead of finding hyperplanes of maximum variance between the response and independent variables it finds the linear regression model by projecting the predicted variables and the observable variables to a new space
+It is extension of the multiple linear regression or general stepwise regression ,in the simplest form a linear model specifies the relationship between a dependent variable y and set of predictions.instead of finding hyperplanes of maximum variance between the response and independent variables it finds the linear regression model by projecting the predicted variables and the observable variables to a new space.
+
+## Gradient Boosting Regression:
+
+Gradient boosting is a machine learning technique for regression and classification problems, which produces a prediction model in the form of an ensemble of weak prediction models, typically decision trees.
