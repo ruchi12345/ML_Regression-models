@@ -57,3 +57,7 @@ Bayesian regression techniques can be used to include regularization parameters 
 
 It is Adaptive boasting Algorithm aims to convert a set of weak learners into a strong one. It starts by predicting original data set and gives equal weight to each observation. If prediction is incorrect using the first learner, then it gives higher weight to observation which have been predicted incorrectly.
 
+## Principal Components Regression:
+
+Principal Components Regression is a technique for analyzing multiple regression data that suffer from
+multicollinearity.It Selects and keeps only the main principal components,The only hyperparameter is the number of principal components, which is an integer.It is used for Great for visualisation and intuitive understanding of the data.
