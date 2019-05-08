@@ -42,6 +42,8 @@ To predict the outcome of a given sample where the output variable is in the for
 
 14.XGBoost Regression
 
+15.SGD Regressor
+
 
 ### Linear Regression:
 
