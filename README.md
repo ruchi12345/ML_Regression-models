@@ -103,6 +103,10 @@ Gradient boosting is a machine learning technique for regression and classificat
 ### XGBoost Regression:
 It is extreme Gradient Boosting Algorithm.There are two reasons to use this algorithm 1) Execution Speed 2) model performance,Generally It is fast compared to other gradient  Boosting implemantations.This algorithm was engineered for efficiency of compute time and memory resources. A design goal was to make the best use of available resources to train the model.
 
+### SGD Regression:
+
+It is Stochastic Gradient Descent Regression ,It regularizer is a penalty added to the loss function that shrinks model parameters towards the zero vector.The implementation of this works with data represented as dense numpy arrays of floating point values for the features.And this is also known as incremental gradient descent.
+
 
 
 
