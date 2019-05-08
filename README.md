@@ -1,5 +1,5 @@
 # ML_Regression-models
-## Machine learning:
+### Machine learning:
 
 Machine learning is a part of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience.The main focus of machine learning is to develop the computer programs.ML are those that can learn from data and improve from experience, without human intervention. Learning tasks may include learning the function that maps the input to the output. To select the right alogritm is key part of ml.
 
