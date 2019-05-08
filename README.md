@@ -41,57 +41,57 @@ To predict the outcome of a given sample where the output variable is in the for
 13.Gradient Boosting Regression
 
 
-## Linear Regression:
+### Linear Regression:
 
 This Regression algorithm finds the relationship between dependent variable and independent variable. We have set of input variable that are used to identify the output variable.The goal of ML is to quantify this relationship.
 Linear Regression is represented as a line in the form of y = a + bx.
 
-## Support vector Machine-Regression(SVR):
+### Support vector Machine-Regression(SVR):
 
 Support Vector Machine can also be used as a regression method,The Support Vector Regression (SVR) uses the same principles as the SVM for classification, with only a few minor differences.First of all, because output is a real number it becomes very difficult to predict the information at hand, which has infinite possibilities.It create hyperpalne with maximum margin from support vectors.
 
-## Random Forest Regression:
+### Random Forest Regression:
 
 Random forest creates multiple decision trees on randomly selected data samples, then merge that trees for the accurate and stable output. It is flexible and easy to use alogrihtm.As the name suggest it create forest of trees,features are the root nodes and subnodes are the trees created by the random forest.
 
-## Decision Tree Regressor:
+### Decision Tree Regressor:
 
 A decision tree is graphical represention of all the possible solutions to a decision tree based on certain conditions. It is decision tress because it start with a single root it create tree for the best fir output.
 
-## Polynomial Regression:
+### Polynomial Regression:
 
 It is a technique to fit a nonlinear equation by taking polynomial functions of independent variable.There are some relationships that a researcher will hypothesize is curvilinear. Clearly, such type of cases will include a polynomial term.
 
-## Ridge Regression:
+### Ridge Regression:
 
 Ridge regression is for reduce the complexity of model that is number of predictors.Removing predictors from the model can be seen as settings their coefficients to zero. Instead of forcing them to be exactly zero.
 
-## Lasso Regression:
+### Lasso Regression:
 
 Lasso regression is as same as the ridge regression  both used for the reduce the complexity of model.The only difference 
 instead of taking the square of the coefficients, magnitudes are taken into account. some of the features are completely neglected for the evaluation of output. So Lasso regression not only helps in reducing over-fitting but it can help us in feature selection.
 
-## Elastic net Regression:
+### Elastic net Regression:
 
 The method linearly combines the L1 and L2 penalties of the LASSO and Ridge Regression. Including the Elastic Net, these methods are especially powerful when applied to very large data where the number of variables might be in the thousands or even millions.
 
-## Bayesian regression:
+### Bayesian regression:
 
 Bayesian regression techniques can be used to include regularization parameters in the estimation procedure,the regularization parameter is not set in a hard sense but tuned to the data at hand.
 
-## Adaboost regression:
+### Adaboost regression:
 
 It is Adaptive boasting Algorithm aims to convert a set of weak learners into a strong one. It starts by predicting original data set and gives equal weight to each observation. If prediction is incorrect using the first learner, then it gives higher weight to observation which have been predicted incorrectly.
 
-## Principal Components Regression:
+### Principal Components Regression:
 
 Principal Components Regression is a technique for analyzing multiple regression data that suffer from
 multicollinearity.It Selects and keeps only the main principal components,The only hyperparameter is the number of principal components, which is an integer.It is used for Great for visualisation and intuitive understanding of the data.
 
-## Partial Least square Regression:
+### Partial Least square Regression:
 
 It is extension of the multiple linear regression or general stepwise regression ,in the simplest form a linear model specifies the relationship between a dependent variable y and set of predictions.instead of finding hyperplanes of maximum variance between the response and independent variables it finds the linear regression model by projecting the predicted variables and the observable variables to a new space.
 
-## Gradient Boosting Regression:
+### Gradient Boosting Regression:
 
 Gradient boosting is a machine learning technique for regression and classification problems, which produces a prediction model in the form of an ensemble of weak prediction models, typically decision trees.
