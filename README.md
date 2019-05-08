@@ -40,6 +40,8 @@ To predict the outcome of a given sample where the output variable is in the for
 
 13.Gradient Boosting Regression
 
+14.XGBoost Regression
+
 
 ### Linear Regression:
 
@@ -95,6 +97,9 @@ It is extension of the multiple linear regression or general stepwise regression
 ### Gradient Boosting Regression:
 
 Gradient boosting is a machine learning technique for regression and classification problems, which produces a prediction model in the form of an ensemble of weak prediction models, typically decision trees.
+
+### XGBoost Regression:
+It is extreme Gradient Boosting Algorithm.There are two reasons to use this algorithm 1) Execution Speed 2) model performance,Generally It is fast compared to other gradient  Boosting implemantations.This algorithm was engineered for efficiency of compute time and memory resources. A design goal was to make the best use of available resources to train the model.
 
 
 
