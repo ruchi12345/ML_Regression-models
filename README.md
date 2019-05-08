@@ -3,14 +3,14 @@
 
 Machine learning is a part of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience.The main focus of machine learning is to develop the computer programs.ML are those that can learn from data and improve from experience, without human intervention. Learning tasks may include learning the function that maps the input to the output. To select the right alogritm is key part of ml.
 
-## Supervised learning:
+###  Supervised learning:
 supervised learning use labeled training data to learn the mapping function from the input variable to the output variable.
 
 Supervised learning can be of two types:
 
-## 1.Classification: 
+### 1.Classification: 
 To predict the outcome of a given sample where the output variable is in the form of categories
-## 2.Regression: 
+### 2.Regression: 
 To predict the outcome of a given sample where the output variable is in the form of real values.
 
 ## The algorithms we cover in this blog is:
